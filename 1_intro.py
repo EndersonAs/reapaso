@@ -12,4 +12,6 @@ print(a==b)
 print(d != f)
 print(d > f, "¿d es mayor que f?   ") 
 
+#otro ejemplo 
+
 
