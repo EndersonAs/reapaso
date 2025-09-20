@@ -1,4 +1,3 @@
-#ejercicio_1.py
 
 """
 1 Solicitar al usuario que ingrese 
