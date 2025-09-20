@@ -1,5 +1,4 @@
-"""
-Ejercicio 2 - Listas
+""" Ejercicio 2 - Listas
 1. Crea una lista ue contenga al menos 6 números enteros, donde al nos números se repitan.
 2. Muestra en pantalla el primer y el último elemento de la lista.
 3. Agrega un nuevo número al final de Ia lista. (append)
@@ -9,9 +8,7 @@ Ejercicio 2 - Listas
 7. Muestra cuántas veces aparece un número específico (elige tú cuál). (count)
 8. Muestra en qué posición aparece por primera vez ese mismo número. (index)"""
 
-
-# --------------------------------------------------------------------------
-# punto 1
+#punto 1
 lista_1 = [24, 25, 35, 47, 58, 69, 58, 24, 12]
 print(lista_1)
 #punto 2 
