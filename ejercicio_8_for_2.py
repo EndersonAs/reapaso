@@ -33,4 +33,5 @@ print(f"{promedio_1:.1f}, {promedio_2:.1f}, {promedio_3:.1f}, {promedio_4}") #ðŸ
 print(f"{promedio_1:.4f}, {promedio_2:.4f}, {promedio_3:.4f}, {promedio_4}") #ðŸ‘‰ .3f significa: fijo con 2 decimales.
 
 print(f"{promedio_1:.2g}, {promedio_2:.2g}, {promedio_3:.2g}, {promedio_4}") #Usa .2g si quieres valores cortos, adaptativos (solo 2 cifras importantes).
+print(f"{promedio_1:.2e}, {promedio_2:.2e}, {promedio_3:.2e}, {promedio_4}") #Usa .2e para que salga con un valor exponencial
 
