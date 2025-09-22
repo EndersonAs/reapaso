@@ -24,3 +24,4 @@ if stock >= 100 and stock <= 1000:
 else:
     print("el stock es incorrecto")
 """
+
