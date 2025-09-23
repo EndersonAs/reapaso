@@ -1,1 +1,1 @@
-# Aui haremos nuestro juego de piedra, papel o tijera. 
+# Aqui haremos nuestro juego de piedra, papel o tijera. 
