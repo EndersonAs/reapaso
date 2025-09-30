@@ -14,7 +14,7 @@ l. Leer el archivo ventas sucias.xlsx en un DataFrame.
 import pandas as pd
 
 print("1. importar y leer el Archivo Excel")
-df_excel = pd.read_excel(r"C:\Users\ariza\Downloads\ventas_sin_procesar.xlsx")
+df_excel = pd.read_excel(r"C:\Users\ANDAP\Desktop\ventas_sin_procesar.xlsx")
 print(df_excel)
 
 print("---------------------------------------------------------------------")
