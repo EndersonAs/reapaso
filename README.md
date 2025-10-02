@@ -12,4 +12,8 @@ git config --global --unset user.email
 
 # paginas interesantes 
 https://pandas.pydata.org/pandas-docs/stable/index.html#
+
+
+#sincronizar preferencias
+Settings Sync: Turn On
     
