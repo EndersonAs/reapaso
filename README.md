@@ -7,8 +7,8 @@ git config user.name "ariza.ambiente@gmail.com"
 git config --unset user.name
 git config --unset user.email
 
-git config --global --unset user.name
-git config --global --unset user.email
+git config --global --unset "EndersonAs"
+git config --global --unset "ariza.ambiente@gmail.com"
 
 # paginas interesantes 
 https://pandas.pydata.org/pandas-docs/stable/index.html#
